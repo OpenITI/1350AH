@@ -1,39 +1,38 @@
-#####ARABICA#SUBJECT#
+######OpenITI#
 
 
-######## BEGofRECORD ###################################################
-#000000# 000.SortField	:: JK_001025
-#NewRec# 000.BookURI	:: AFTER1900
-#NewRec# 010.AuthorAKA	:: سليمان بن سحمان الفزعي الخثعمي
-#NewRec# 010.AuthorNAME	:: سليمان بن سحمان الفزعي الخثعمي
-#NewRec# 011.AuthorBORN	:: 1266هـ
-#NewRec# 011.AuthorDIED	:: 1349
-#NewRec# 019.AuthorDIED	:: NODATA
-#NewRec# 020.BookTITLE	:: كشف الأوهام والإلتباس عن تشبيه بعض الأغبياء من الناس
-#NewRec# 020.BookTITLESUB	:: NODATA
-#NewRec# 021.BookSUBJ	:: كتب العقائد والملل :: مواضيع عقدية :: مواضيع عقدية محددة
-#NewRec# 022.BookVOLS	:: 1
-#NewRec# 025.BookLANG	:: NODATA
-#NewRec# 029.BookTITLEalt	:: كشف الأوهام والإلتباس عن تشبيه بعض الأغبياء من الناس
-#NewRec# 030.LibURI	:: JK_001025
-#NewRec# 030.LibURIextra	:: NODATA
-#NewRec# 031.LibREADONLINE	:: NODATA
-#NewRec# 031.LibURL	:: NODATA
-#NewRec# 031.LibURLFILE	:: NODATA
-#NewRec# 031.LibURLextra	:: NODATA
-#NewRec# 040.EdALL	:: NODATA
-#NewRec# 040.EdEDITOR	:: عبد العزيز بن عبد الله الزير آل حمد
-#NewRec# 041.EdNUMBER	:: الأولى
-#NewRec# 041.EdNumber	:: NODATA
-#NewRec# 043.EdPUBLISHER	:: دار العاصمة
-#NewRec# 044.EdPLACE	:: السعودية
-#NewRec# 045.EdYEAR	:: 1415هـ
-#NewRec# 049.EdISBN	:: NODATA
-#NewRec# 049.EdPAGES	:: NODATA
-#NewRec# 049.EdPHYSICAL	:: NODATA
-#NewRec# 049.EdVOLUME	:: NODATA
-#NewRec# 090.RecMISC	:: NODATA
-#NewRec# 999.MiscINFO	:: NODATA
+#META# 000.SortField	:: JK_001025
+#META# 000.BookURI	:: AFTER1900
+#META# 010.AuthorAKA	:: سليمان بن سحمان الفزعي الخثعمي
+#META# 010.AuthorNAME	:: سليمان بن سحمان الفزعي الخثعمي
+#META# 011.AuthorBORN	:: 1266هـ
+#META# 011.AuthorDIED	:: 1349
+#META# 019.AuthorDIED	:: NODATA
+#META# 020.BookTITLE	:: كشف الأوهام والإلتباس عن تشبيه بعض الأغبياء من الناس
+#META# 020.BookTITLESUB	:: NODATA
+#META# 021.BookSUBJ	:: كتب العقائد والملل :: مواضيع عقدية :: مواضيع عقدية محددة
+#META# 022.BookVOLS	:: 1
+#META# 025.BookLANG	:: NODATA
+#META# 029.BookTITLEalt	:: كشف الأوهام والإلتباس عن تشبيه بعض الأغبياء من الناس
+#META# 030.LibURI	:: JK_001025
+#META# 030.LibURIextra	:: NODATA
+#META# 031.LibREADONLINE	:: NODATA
+#META# 031.LibURL	:: NODATA
+#META# 031.LibURLFILE	:: NODATA
+#META# 031.LibURLextra	:: NODATA
+#META# 040.EdALL	:: NODATA
+#META# 040.EdEDITOR	:: عبد العزيز بن عبد الله الزير آل حمد
+#META# 041.EdNUMBER	:: الأولى
+#META# 041.EdNumber	:: NODATA
+#META# 043.EdPUBLISHER	:: دار العاصمة
+#META# 044.EdPLACE	:: السعودية
+#META# 045.EdYEAR	:: 1415هـ
+#META# 049.EdISBN	:: NODATA
+#META# 049.EdPAGES	:: NODATA
+#META# 049.EdPHYSICAL	:: NODATA
+#META# 049.EdVOLUME	:: NODATA
+#META# 090.RecMISC	:: NODATA
+#META# 999.MiscINFO	:: NODATA
 
 
 
