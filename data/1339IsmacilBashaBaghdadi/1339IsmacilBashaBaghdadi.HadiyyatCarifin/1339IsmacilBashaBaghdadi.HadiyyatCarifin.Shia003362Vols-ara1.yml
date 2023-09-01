@@ -5,9 +5,12 @@
 80#VERS#COLLATED#: https://worldcat.org/en/title/4771447822
 80#VERS#LINKS####: https://archive.org/details/sbacolloque_gmail_1
 90#VERS#ANNOTATOR: Leipzig Team
-90#VERS#COMMENT##:
-    NOTE OF THE REVIEWER (HRH): The text has a lot of hashtags, pipelines and colons
-    inside the text that should be deleted. But, the asterisks before some entries
-    are for the PDF and should not be deleted.
+90#VERS#COMMENT##: 
+        NOTE OF THE REVIEWER (HRH): The text has a lot of hashtags, pipelines and colons
+        inside the text that should be deleted. But, the asterisks before some entries
+        are for the PDF and should not be deleted.
+    All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
 90#VERS#DATE#####: YYYY-MM-DD
-90#VERS#ISSUES###: RANDOM_CHARS
+90#VERS#ISSUES###: RANDOM_CHARS, PRIMARY_VERSION, CLEANED_VERSION

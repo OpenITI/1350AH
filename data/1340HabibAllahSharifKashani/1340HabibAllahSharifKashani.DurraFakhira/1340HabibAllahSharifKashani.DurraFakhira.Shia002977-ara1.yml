@@ -6,5 +6,8 @@
 80#VERS#LINKS####: https://www.noormags.ir/view/fa/articlepage/8566/الدرة-الفاخرة-منظومة-فی-علم-درایة-الحدیث
 90#VERS#ANNOTATOR: HRH
 90#VERS#COMMENT##: The link in VERS#LINKS leads you to a payment-based website and you must have an account to see the PDF. 2- I moved each verse of poetry to a new line by RegEx.
+    All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
 90#VERS#DATE#####: 2020-11-03
-90#VERS#ISSUES###: EDITORIAL_SECTIONS
+90#VERS#ISSUES###: EDITORIAL_SECTIONS, PRIMARY_VERSION, CLEANED_VERSION

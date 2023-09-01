@@ -6,5 +6,8 @@
 80#VERS#LINKS####: http://awhad.com/posts/مرآة-الكتب
 90#VERS#ANNOTATOR: HRH
 90#VERS#COMMENT##: The text has five volumes. The digital version is just the first volume. I raised a TEXT QUALITY issue.
+    All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
 90#VERS#DATE#####: 2020-11-10
-90#VERS#ISSUES###: TEXT_QUALITY
+90#VERS#ISSUES###: TEXT_QUALITY, PRIMARY_VERSION, CLEANED_VERSION
