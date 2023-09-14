@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1331JurjiZaydan.AminWaMamun.Hindawi75919582",
-    "BookCats": "novels",
-    "BookID": "75919582",
-    "BookTitle": "الأمين والمأمون",
-    "AuthorID": "40590249",
-    "AuthorNam": "جُرجي زيدان",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1331JurjiZaydan.AminWaMamun.Hindawi75919582
+#META# Tags: novels
+#META# ID: 75919582
+#META# Title: الأمين والمأمون
+#META# AuthorID: 40590249
+#META# Author: جُرجي زيدان
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1339WaliDinYakin.SahaifSud.Hindawi25394939",
-    "BookCats": "literature",
-    "BookID": "25394939",
-    "BookTitle": "الصحائف السود",
-    "AuthorID": "96170848",
-    "AuthorNam": "ولي الدين يكن",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1339WaliDinYakin.SahaifSud.Hindawi25394939
+#META# Tags: literature
+#META# ID: 25394939
+#META# Title: الصحائف السود
+#META# AuthorID: 96170848
+#META# Author: ولي الدين يكن
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

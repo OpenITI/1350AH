@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1348AhmadTaymurBasha.TarikhCilmCuthmani.Hindawi70951718",
-    "BookCats": "history",
-    "BookID": "70951718",
-    "BookTitle": "تاريخ العلم العثماني",
-    "AuthorID": "63682491",
-    "AuthorNam": "أحمد تيمور باشا",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1348AhmadTaymurBasha.TarikhCilmCuthmani.Hindawi70951718
+#META# Tags: history
+#META# ID: 70951718
+#META# Title: تاريخ العلم العثماني
+#META# AuthorID: 63682491
+#META# Author: أحمد تيمور باشا
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1344IliyasCabduhQudsi.NubdhaTarikhiyya.Hindawi97029505",
-    "BookCats": "history",
-    "BookID": "97029505",
-    "BookTitle": "نبذة تاريخية في الحِرَف الدمشقية",
-    "AuthorID": "49136394",
-    "AuthorNam": "إلياس عبده قدسي",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1344IliyasCabduhQudsi.NubdhaTarikhiyya.Hindawi97029505
+#META# Tags: history
+#META# ID: 97029505
+#META# Title: نبذة تاريخية في الحِرَف الدمشقية
+#META# AuthorID: 49136394
+#META# Author: إلياس عبده قدسي
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1342TawfiqCazuz.WahshDari.Hindawi38184164",
-    "BookCats": "novels",
-    "BookID": "38184164",
-    "BookTitle": "الوحش الضاري",
-    "AuthorID": "71403904",
-    "AuthorNam": "توفيق عزوز",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1342TawfiqCazuz.WahshDari.Hindawi38184164
+#META# Tags: novels
+#META# ID: 38184164
+#META# Title: الوحش الضاري
+#META# AuthorID: 71403904
+#META# Author: توفيق عزوز
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

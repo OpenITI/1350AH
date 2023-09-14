@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1349MuhammadMuwaylihi.HadithCisaIbnHisham.Hindawi63950852",
-    "BookCats": "literature",
-    "BookID": "63950852",
-    "BookTitle": "حديث عيسى بن هشام",
-    "AuthorID": "19203514",
-    "AuthorNam": "محمد المويلحي",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1349MuhammadMuwaylihi.HadithCisaIbnHisham.Hindawi63950852
+#META# Tags: literature
+#META# ID: 63950852
+#META# Title: حديث عيسى بن هشام
+#META# AuthorID: 19203514
+#META# Author: محمد المويلحي
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

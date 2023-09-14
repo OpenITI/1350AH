@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1343SulaymanBustani.DawlaCuthmaniyya.Hindawi94041470",
-    "BookCats": "history",
-    "BookID": "94041470",
-    "BookTitle": "الدولة العثمانية قبل الدستور وبعده",
-    "AuthorID": "82085825",
-    "AuthorNam": "سليمان البستاني",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1343SulaymanBustani.DawlaCuthmaniyya.Hindawi94041470
+#META# Tags: history
+#META# ID: 94041470
+#META# Title: الدولة العثمانية قبل الدستور وبعده
+#META# AuthorID: 82085825
+#META# Author: سليمان البستاني
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

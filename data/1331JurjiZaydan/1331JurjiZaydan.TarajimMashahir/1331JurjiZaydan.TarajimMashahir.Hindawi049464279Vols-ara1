@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1331JurjiZaydan.TarajimMashahir01.Hindawi49464279",
-    "BookCats": "history",
-    "BookID": "49464279",
-    "BookTitle": "تراجم مشاهير الشرق في القرن التاسع عشر (الجزء الأول)",
-    "AuthorID": "40590249",
-    "AuthorNam": "جُرجي زيدان",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1331JurjiZaydan.TarajimMashahir01.Hindawi49464279
+#META# Tags: history
+#META# ID: 49464279
+#META# Title: تراجم مشاهير الشرق في القرن التاسع عشر (الجزء الأول)
+#META# AuthorID: 40590249
+#META# Author: جُرجي زيدان
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

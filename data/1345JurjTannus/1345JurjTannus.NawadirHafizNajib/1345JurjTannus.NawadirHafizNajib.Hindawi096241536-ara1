@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1345JurjTannus.NawadirHafizNajib.Hindawi96241536",
-    "BookCats": "literature",
-    "BookID": "96241536",
-    "BookTitle": "نوادر حافظ نجيب",
-    "AuthorID": "14826058",
-    "AuthorNam": "جورج طنوس",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1345JurjTannus.NawadirHafizNajib.Hindawi96241536
+#META# Tags: literature
+#META# ID: 96241536
+#META# Title: نوادر حافظ نجيب
+#META# AuthorID: 14826058
+#META# Author: جورج طنوس
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

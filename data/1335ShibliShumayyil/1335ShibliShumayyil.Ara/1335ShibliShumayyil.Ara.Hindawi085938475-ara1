@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1335ShibliShumayyil.Ara.Hindawi85938475",
-    "BookCats": "philosophy",
-    "BookID": "85938475",
-    "BookTitle": "آراء الدكتور شبلي شميل",
-    "AuthorID": "90709753",
-    "AuthorNam": "شبلي شميل",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1335ShibliShumayyil.Ara.Hindawi85938475
+#META# Tags: philosophy
+#META# ID: 85938475
+#META# Title: آراء الدكتور شبلي شميل
+#META# AuthorID: 90709753
+#META# Author: شبلي شميل
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

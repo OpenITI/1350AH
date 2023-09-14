@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1334AhmadIbnIbrahimSabuni.TarikhHama.Hindawi20902971",
-    "BookCats": "history",
-    "BookID": "20902971",
-    "BookTitle": "تاريخ حماة",
-    "AuthorID": "13628248",
-    "AuthorNam": "أحمد بن إبراهيم الصابوني",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1334AhmadIbnIbrahimSabuni.TarikhHama.Hindawi20902971
+#META# Tags: history
+#META# ID: 20902971
+#META# Title: تاريخ حماة
+#META# AuthorID: 13628248
+#META# Author: أحمد بن إبراهيم الصابوني
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1332ZaynabFawwaz.MalikKurush.Hindawi71361816",
-    "BookCats": "novels",
-    "BookID": "71361816",
-    "BookTitle": "الملك كورش",
-    "AuthorID": "15862507",
-    "AuthorNam": "زينب فواز",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1332ZaynabFawwaz.MalikKurush.Hindawi71361816
+#META# Tags: novels
+#META# ID: 71361816
+#META# Title: الملك كورش
+#META# AuthorID: 15862507
+#META# Author: زينب فواز
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

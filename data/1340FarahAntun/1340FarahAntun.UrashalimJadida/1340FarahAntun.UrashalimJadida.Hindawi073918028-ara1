@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1340FarahAntun.UrashalimJadida.Hindawi73918028",
-    "BookCats": "novels",
-    "BookID": "73918028",
-    "BookTitle": "أورشليم الجديدة",
-    "AuthorID": "62629517",
-    "AuthorNam": "فرح أنطون",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1340FarahAntun.UrashalimJadida.Hindawi73918028
+#META# Tags: novels
+#META# ID: 73918028
+#META# Title: أورشليم الجديدة
+#META# AuthorID: 62629517
+#META# Author: فرح أنطون
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

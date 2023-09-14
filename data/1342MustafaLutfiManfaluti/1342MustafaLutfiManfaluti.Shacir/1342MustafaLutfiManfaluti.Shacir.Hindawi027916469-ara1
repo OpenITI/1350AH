@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1342MustafaLutfiManfaluti.Shacir.Hindawi27916469",
-    "BookCats": "novels",
-    "BookID": "27916469",
-    "BookTitle": "الشاعر",
-    "AuthorID": "93803841",
-    "AuthorNam": "مصطفى لطفي المنفلوطي",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1342MustafaLutfiManfaluti.Shacir.Hindawi27916469
+#META# Tags: novels
+#META# ID: 27916469
+#META# Title: الشاعر
+#META# AuthorID: 93803841
+#META# Author: مصطفى لطفي المنفلوطي
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

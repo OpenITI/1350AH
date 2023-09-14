@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1331JurjiZaydan.TarikhMasuniyya.Hindawi50573515",
-    "BookCats": "history",
-    "BookID": "50573515",
-    "BookTitle": "تاريخ الماسونية العام: منذ نشأتها إلى هذا اليوم",
-    "AuthorID": "40590249",
-    "AuthorNam": "جُرجي زيدان",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1331JurjiZaydan.TarikhMasuniyya.Hindawi50573515
+#META# Tags: history
+#META# ID: 50573515
+#META# Title: تاريخ الماسونية العام: منذ نشأتها إلى هذا اليوم
+#META# AuthorID: 40590249
+#META# Author: جُرجي زيدان
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

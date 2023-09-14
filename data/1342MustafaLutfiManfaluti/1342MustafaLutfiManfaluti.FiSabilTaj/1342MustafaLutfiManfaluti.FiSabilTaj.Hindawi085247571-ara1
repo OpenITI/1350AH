@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1342MustafaLutfiManfaluti.FiSabilTaj.Hindawi85247571",
-    "BookCats": "novels",
-    "BookID": "85247571",
-    "BookTitle": "في سبيل التاج",
-    "AuthorID": "93803841",
-    "AuthorNam": "مصطفى لطفي المنفلوطي",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1342MustafaLutfiManfaluti.FiSabilTaj.Hindawi85247571
+#META# Tags: novels
+#META# ID: 85247571
+#META# Title: في سبيل التاج
+#META# AuthorID: 93803841
+#META# Author: مصطفى لطفي المنفلوطي
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1346AminWasif.MucjamKharitaTarikhiyya.Hindawi52604240",
-    "BookCats": "geography",
-    "BookID": "52604240",
-    "BookTitle": "الفهرست: معجم الخريطة التاريخية للممالك الإسلامية",
-    "AuthorID": "19358649",
-    "AuthorNam": "أمين واصف",
-    "EditorID": "14937183",
-    "EditorNam": "أحمد زكي",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1346AminWasif.MucjamKharitaTarikhiyya.Hindawi52604240
+#META# Tags: geography
+#META# ID: 52604240
+#META# Title: الفهرست: معجم الخريطة التاريخية للممالك الإسلامية
+#META# AuthorID: 19358649
+#META# Author: أمين واصف
+#META# EditorID: 14937183
+#META# Editor: أحمد زكي
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

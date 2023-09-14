@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1348FawziMacluf.CalaBisatRih.Hindawi18069316",
-    "BookCats": "poetry",
-    "BookID": "18069316",
-    "BookTitle": "على بساط الريح",
-    "AuthorID": "63502062",
-    "AuthorNam": "فوزي المعلوف",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1348FawziMacluf.CalaBisatRih.Hindawi18069316
+#META# Tags: poetry
+#META# ID: 18069316
+#META# Title: على بساط الريح
+#META# AuthorID: 63502062
+#META# Author: فوزي المعلوف
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

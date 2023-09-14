@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1331JurjiZaydan.CabdRahmanNasir.Hindawi74268029",
-    "BookCats": "novels",
-    "BookID": "74268029",
-    "BookTitle": "عبد الرحمن الناصر",
-    "AuthorID": "40590249",
-    "AuthorNam": "جُرجي زيدان",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1331JurjiZaydan.CabdRahmanNasir.Hindawi74268029
+#META# Tags: novels
+#META# ID: 74268029
+#META# Title: عبد الرحمن الناصر
+#META# AuthorID: 40590249
+#META# Author: جُرجي زيدان
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

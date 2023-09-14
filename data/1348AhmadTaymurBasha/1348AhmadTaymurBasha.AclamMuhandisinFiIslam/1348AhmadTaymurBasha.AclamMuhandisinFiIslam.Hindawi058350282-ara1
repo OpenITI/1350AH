@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1348AhmadTaymurBasha.AclamMuhandisinFiIslam.Hindawi58350282",
-    "BookCats": "biographies :: history",
-    "BookID": "58350282",
-    "BookTitle": "أعلام المهندسين في الإسلام",
-    "AuthorID": "63682491",
-    "AuthorNam": "أحمد تيمور باشا",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1348AhmadTaymurBasha.AclamMuhandisinFiIslam.Hindawi58350282
+#META# Tags: biographies :: history
+#META# ID: 58350282
+#META# Title: أعلام المهندسين في الإسلام
+#META# AuthorID: 63682491
+#META# Author: أحمد تيمور باشا
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

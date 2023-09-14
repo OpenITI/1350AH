@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1331IbnAminShinqiti.MucallaqatCashar.Hindawi39141640",
-    "BookCats": "poetry :: literary.criticism",
-    "BookID": "39141640",
-    "BookTitle": "المعلقات العشر وأخبار شعرائها",
-    "AuthorID": "81308403",
-    "AuthorNam": "أحمد بن الأمين الشنقيطي",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1331IbnAminShinqiti.MucallaqatCashar.Hindawi39141640
+#META# Tags: poetry :: literary.criticism
+#META# ID: 39141640
+#META# Title: المعلقات العشر وأخبار شعرائها
+#META# AuthorID: 81308403
+#META# Author: أحمد بن الأمين الشنقيطي
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

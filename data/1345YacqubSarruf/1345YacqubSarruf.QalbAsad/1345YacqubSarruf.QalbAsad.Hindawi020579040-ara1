@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1345YacqubSarruf.QalbAsad.Hindawi20579040",
-    "BookCats": "novels",
-    "BookID": "20579040",
-    "BookTitle": "قلب الأسد",
-    "AuthorID": "59284082",
-    "AuthorNam": "يعقوب صرُّوف",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1345YacqubSarruf.QalbAsad.Hindawi20579040
+#META# Tags: novels
+#META# ID: 20579040
+#META# Title: قلب الأسد
+#META# AuthorID: 59284082
+#META# Author: يعقوب صرُّوف
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

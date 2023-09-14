@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1340FarahAntun.IbnShacb.Hindawi15917424",
-    "BookCats": "plays",
-    "BookID": "15917424",
-    "BookTitle": "ابن الشعب",
-    "AuthorID": "62629517",
-    "AuthorNam": "فرح أنطون",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1340FarahAntun.IbnShacb.Hindawi15917424
+#META# Tags: plays
+#META# ID: 15917424
+#META# Title: ابن الشعب
+#META# AuthorID: 62629517
+#META# Author: فرح أنطون
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

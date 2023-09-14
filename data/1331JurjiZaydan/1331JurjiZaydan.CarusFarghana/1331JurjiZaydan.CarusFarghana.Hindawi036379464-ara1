@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1331JurjiZaydan.CarusFarghana.Hindawi36379464",
-    "BookCats": "novels",
-    "BookID": "36379464",
-    "BookTitle": "عـروس فرغانة",
-    "AuthorID": "40590249",
-    "AuthorNam": "جُرجي زيدان",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1331JurjiZaydan.CarusFarghana.Hindawi36379464
+#META# Tags: novels
+#META# ID: 36379464
+#META# Title: عـروس فرغانة
+#META# AuthorID: 40590249
+#META# Author: جُرجي زيدان
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

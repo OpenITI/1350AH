@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1331JurjiZaydan.KhulasatTarikhYunanWaRuman.Hindawi20281730",
-    "BookCats": "history",
-    "BookID": "20281730",
-    "BookTitle": "خلاصة تاريخ اليونان والرومان",
-    "AuthorID": "40590249",
-    "AuthorNam": "جُرجي زيدان",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1331JurjiZaydan.KhulasatTarikhYunanWaRuman.Hindawi20281730
+#META# Tags: history
+#META# ID: 20281730
+#META# Title: خلاصة تاريخ اليونان والرومان
+#META# AuthorID: 40590249
+#META# Author: جُرجي زيدان
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

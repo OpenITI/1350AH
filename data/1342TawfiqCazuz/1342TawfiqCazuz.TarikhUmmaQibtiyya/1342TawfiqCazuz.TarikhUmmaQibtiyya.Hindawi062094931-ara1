@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1342TawfiqCazuz.TarikhUmmaQibtiyya.Hindawi62094931",
-    "BookCats": "history",
-    "BookID": "62094931",
-    "BookTitle": "الهدية التوفيقية في تاريخ الأمة القبطية",
-    "AuthorID": "71403904",
-    "AuthorNam": "توفيق عزوز",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1342TawfiqCazuz.TarikhUmmaQibtiyya.Hindawi62094931
+#META# Tags: history
+#META# ID: 62094931
+#META# Title: الهدية التوفيقية في تاريخ الأمة القبطية
+#META# AuthorID: 71403904
+#META# Author: توفيق عزوز
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

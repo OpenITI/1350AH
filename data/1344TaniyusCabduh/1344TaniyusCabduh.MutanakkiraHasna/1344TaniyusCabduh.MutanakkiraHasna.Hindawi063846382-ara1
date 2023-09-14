@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1344TaniyusCabduh.MutanakkiraHasna.Hindawi63846382",
-    "BookCats": "novels",
-    "BookID": "63846382",
-    "BookTitle": "المتنكرة الحسناء",
-    "AuthorID": "82971647",
-    "AuthorNam": "جول ماري",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "69739264",
-    "TranslNam": "طانيوس عبده",
-    "BookRel": "1340JulesMary.BelleTenebreuse (TRANSL)"
-}
-
+#META# URI: 1344TaniyusCabduh.MutanakkiraHasna.Hindawi63846382
+#META# Tags: novels
+#META# ID: 63846382
+#META# Title: المتنكرة الحسناء
+#META# AuthorID: 82971647
+#META# Author: جول ماري
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: 69739264
+#META# Translator: طانيوس عبده
+#META# Related_books: 1340JulesMary.BelleTenebreuse (TRANSL)
 
 #META#Header#End#
 

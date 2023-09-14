@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1334HasanQandil.FathDarfur.Hindawi52591838",
-    "BookCats": "history",
-    "BookID": "52591838",
-    "BookTitle": "فتح دارفور سنة ١٩١٦م ونبذة من تاريخ سلطانها علي دينار",
-    "AuthorID": "49375179",
-    "AuthorNam": "حسن قنديل",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1334HasanQandil.FathDarfur.Hindawi52591838
+#META# Tags: history
+#META# ID: 52591838
+#META# Title: فتح دارفور سنة ١٩١٦م ونبذة من تاريخ سلطانها علي دينار
+#META# AuthorID: 49375179
+#META# Author: حسن قنديل
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

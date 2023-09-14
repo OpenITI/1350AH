@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1350MuhammadSibaci.AbtalMisr.Hindawi80313908",
-    "BookCats": "history",
-    "BookID": "80313908",
-    "BookTitle": "أبطال مصر",
-    "AuthorID": "28537947",
-    "AuthorNam": "محمد السباعي",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1350MuhammadSibaci.AbtalMisr.Hindawi80313908
+#META# Tags: history
+#META# ID: 80313908
+#META# Title: أبطال مصر
+#META# AuthorID: 28537947
+#META# Author: محمد السباعي
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

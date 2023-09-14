@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1339MuhammadTaymur.CabdSattarAffandi.Hindawi83591793",
-    "BookCats": "plays",
-    "BookID": "83591793",
-    "BookTitle": "عبد الستار أفندي: كوميديا مصرية أخلاقية ذات أربعة فصول",
-    "AuthorID": "40461618",
-    "AuthorNam": "محمد تيمور",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1339MuhammadTaymur.CabdSattarAffandi.Hindawi83591793
+#META# Tags: plays
+#META# ID: 83591793
+#META# Title: عبد الستار أفندي: كوميديا مصرية أخلاقية ذات أربعة فصول
+#META# AuthorID: 40461618
+#META# Author: محمد تيمور
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

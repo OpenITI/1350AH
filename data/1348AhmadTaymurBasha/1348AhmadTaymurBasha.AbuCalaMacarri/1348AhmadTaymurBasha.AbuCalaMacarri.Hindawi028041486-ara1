@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1348AhmadTaymurBasha.AbuCalaMacarri.Hindawi28041486",
-    "BookCats": "literary.criticism",
-    "BookID": "28041486",
-    "BookTitle": "أبو العلاء المعري",
-    "AuthorID": "63682491",
-    "AuthorNam": "أحمد تيمور باشا",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1348AhmadTaymurBasha.AbuCalaMacarri.Hindawi28041486
+#META# Tags: literary.criticism
+#META# ID: 28041486
+#META# Title: أبو العلاء المعري
+#META# AuthorID: 63682491
+#META# Author: أحمد تيمور باشا
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

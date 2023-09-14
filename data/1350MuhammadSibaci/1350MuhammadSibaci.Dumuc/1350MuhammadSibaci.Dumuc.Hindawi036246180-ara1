@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1350MuhammadSibaci.Dumuc.Hindawi36246180",
-    "BookCats": "novels",
-    "BookID": "36246180",
-    "BookTitle": "الدموع",
-    "AuthorID": "28537947",
-    "AuthorNam": "محمد السباعي",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1350MuhammadSibaci.Dumuc.Hindawi36246180
+#META# Tags: novels
+#META# ID: 36246180
+#META# Title: الدموع
+#META# AuthorID: 28537947
+#META# Author: محمد السباعي
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

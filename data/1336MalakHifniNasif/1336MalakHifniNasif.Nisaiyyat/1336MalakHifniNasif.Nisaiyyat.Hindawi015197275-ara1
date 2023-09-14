@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1336MalakHifniNasif.Nisaiyyat.Hindawi15197275",
-    "BookCats": "literature",
-    "BookID": "15197275",
-    "BookTitle": "النسائيات",
-    "AuthorID": "84172726",
-    "AuthorNam": "ملك حفني ناصف",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1336MalakHifniNasif.Nisaiyyat.Hindawi15197275
+#META# Tags: literature
+#META# ID: 15197275
+#META# Title: النسائيات
+#META# AuthorID: 84172726
+#META# Author: ملك حفني ناصف
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

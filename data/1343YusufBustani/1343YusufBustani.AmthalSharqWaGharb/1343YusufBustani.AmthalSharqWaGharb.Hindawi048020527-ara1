@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1343YusufBustani.AmthalSharqWaGharb.Hindawi48020527",
-    "BookCats": "literature",
-    "BookID": "48020527",
-    "BookTitle": "أمثال الشرق والغرب",
-    "AuthorID": "39030463",
-    "AuthorNam": "يوسف البستاني",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1343YusufBustani.AmthalSharqWaGharb.Hindawi48020527
+#META# Tags: literature
+#META# ID: 48020527
+#META# Title: أمثال الشرق والغرب
+#META# AuthorID: 39030463
+#META# Author: يوسف البستاني
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

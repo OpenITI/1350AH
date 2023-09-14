@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1338TahirJazairi.AshharAmthal.Hindawi92480704",
-    "BookCats": "literature",
-    "BookID": "92480704",
-    "BookTitle": "أشهر الأمثال",
-    "AuthorID": "70951583",
-    "AuthorNam": "طاهر الجزائري",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1338TahirJazairi.AshharAmthal.Hindawi92480704
+#META# Tags: literature
+#META# ID: 92480704
+#META# Title: أشهر الأمثال
+#META# AuthorID: 70951583
+#META# Author: طاهر الجزائري
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

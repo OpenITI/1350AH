@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1344SalimSarkis.GharaibMaktubji.Hindawi25194053",
-    "BookCats": "literature",
-    "BookID": "25194053",
-    "BookTitle": "غرائب المكتوبجي",
-    "AuthorID": "50796841",
-    "AuthorNam": "سليم سركيس",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1344SalimSarkis.GharaibMaktubji.Hindawi25194053
+#META# Tags: literature
+#META# ID: 25194053
+#META# Title: غرائب المكتوبجي
+#META# AuthorID: 50796841
+#META# Author: سليم سركيس
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

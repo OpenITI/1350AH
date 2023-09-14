@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1331JurjiZaydan.AbuMuslimKhurasani.Hindawi41728357",
-    "BookCats": "novels",
-    "BookID": "41728357",
-    "BookTitle": "أبو مسلم الخراساني",
-    "AuthorID": "40590249",
-    "AuthorNam": "جُرجي زيدان",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1331JurjiZaydan.AbuMuslimKhurasani.Hindawi41728357
+#META# Tags: novels
+#META# ID: 41728357
+#META# Title: أبو مسلم الخراساني
+#META# AuthorID: 40590249
+#META# Author: جُرجي زيدان
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

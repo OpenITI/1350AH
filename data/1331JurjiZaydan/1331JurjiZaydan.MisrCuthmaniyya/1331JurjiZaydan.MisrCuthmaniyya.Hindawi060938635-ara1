@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1331JurjiZaydan.MisrCuthmaniyya.Hindawi60938635",
-    "BookCats": "history",
-    "BookID": "60938635",
-    "BookTitle": "مصر العثمانية",
-    "AuthorID": "40590249",
-    "AuthorNam": "جُرجي زيدان",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1331JurjiZaydan.MisrCuthmaniyya.Hindawi60938635
+#META# Tags: history
+#META# ID: 60938635
+#META# Title: مصر العثمانية
+#META# AuthorID: 40590249
+#META# Author: جُرجي زيدان
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

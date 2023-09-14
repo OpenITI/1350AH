@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1348AhmadTaymurBasha.LacbCarab.Hindawi70841359",
-    "BookCats": "history",
-    "BookID": "70841359",
-    "BookTitle": "لعب العرب",
-    "AuthorID": "63682491",
-    "AuthorNam": "أحمد تيمور باشا",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1348AhmadTaymurBasha.LacbCarab.Hindawi70841359
+#META# Tags: history
+#META# ID: 70841359
+#META# Title: لعب العرب
+#META# AuthorID: 63682491
+#META# Author: أحمد تيمور باشا
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

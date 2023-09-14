@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1326MustafaKamil.MasalaSharqiyya.Hindawi47050746",
-    "BookCats": "history",
-    "BookID": "47050746",
-    "BookTitle": "المسألة الشرقية",
-    "AuthorID": "37070482",
-    "AuthorNam": "مصطفى كامل",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1326MustafaKamil.MasalaSharqiyya.Hindawi47050746
+#META# Tags: history
+#META# ID: 47050746
+#META# Title: المسألة الشرقية
+#META# AuthorID: 37070482
+#META# Author: مصطفى كامل
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1348AhmadTaymurBasha.TarikhUsraTaymuriyya.Hindawi60353714",
-    "BookCats": "biographies",
-    "BookID": "60353714",
-    "BookTitle": "تاريخ الأسرة التيمورية",
-    "AuthorID": "63682491",
-    "AuthorNam": "أحمد تيمور باشا",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1348AhmadTaymurBasha.TarikhUsraTaymuriyya.Hindawi60353714
+#META# Tags: biographies
+#META# ID: 60353714
+#META# Title: تاريخ الأسرة التيمورية
+#META# AuthorID: 63682491
+#META# Author: أحمد تيمور باشا
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

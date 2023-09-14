@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1349JibranKhalilJibran.Cawasif.Hindawi85258647",
-    "BookCats": "literature",
-    "BookID": "85258647",
-    "BookTitle": "العواصف",
-    "AuthorID": "85274958",
-    "AuthorNam": "جبران خليل جبران",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1349JibranKhalilJibran.Cawasif.Hindawi85258647
+#META# Tags: literature
+#META# ID: 85258647
+#META# Title: العواصف
+#META# AuthorID: 85274958
+#META# Author: جبران خليل جبران
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

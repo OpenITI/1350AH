@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1341IsmacilSabri.Diwan.Hindawi83084604",
-    "BookCats": "poetry",
-    "BookID": "83084604",
-    "BookTitle": "ديوان إسماعيل صبري",
-    "AuthorID": "75918203",
-    "AuthorNam": "إسماعيل صبري",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1341IsmacilSabri.Diwan.Hindawi83084604
+#META# Tags: poetry
+#META# ID: 83084604
+#META# Title: ديوان إسماعيل صبري
+#META# AuthorID: 75918203
+#META# Author: إسماعيل صبري
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1339WaliDinYakin.Tajarib.Hindawi49472024",
-    "BookCats": "literature",
-    "BookID": "49472024",
-    "BookTitle": "التجاريب: وهي مجموعة مقالات اجتماعية",
-    "AuthorID": "96170848",
-    "AuthorNam": "ولي الدين يكن",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1339WaliDinYakin.Tajarib.Hindawi49472024
+#META# Tags: literature
+#META# ID: 49472024
+#META# Title: التجاريب: وهي مجموعة مقالات اجتماعية
+#META# AuthorID: 96170848
+#META# Author: ولي الدين يكن
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

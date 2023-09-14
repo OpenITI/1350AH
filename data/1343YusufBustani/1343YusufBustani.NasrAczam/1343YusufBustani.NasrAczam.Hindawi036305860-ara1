@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1343YusufBustani.NasrAczam.Hindawi36305860",
-    "BookCats": "history",
-    "BookID": "36305860",
-    "BookTitle": "النسر الأعظم",
-    "AuthorID": "39030463",
-    "AuthorNam": "يوسف البستاني",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1343YusufBustani.NasrAczam.Hindawi36305860
+#META# Tags: history
+#META# ID: 36305860
+#META# Title: النسر الأعظم
+#META# AuthorID: 39030463
+#META# Author: يوسف البستاني
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

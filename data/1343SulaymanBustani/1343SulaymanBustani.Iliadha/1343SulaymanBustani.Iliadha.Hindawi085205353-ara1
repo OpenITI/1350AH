@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1343SulaymanBustani.Iliadha.Hindawi85205353",
-    "BookCats": "poetry",
-    "BookID": "85205353",
-    "BookTitle": "الإلياذة",
-    "AuthorID": "19291904",
-    "AuthorNam": "هوميروس",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "82085825",
-    "TranslNam": "سليمان البستاني",
-    "BookRel": "0001Homeros.Iliad (TRANSL)"
-}
-
+#META# URI: 1343SulaymanBustani.Iliadha.Hindawi85205353
+#META# Tags: poetry
+#META# ID: 85205353
+#META# Title: الإلياذة
+#META# AuthorID: 19291904
+#META# Author: هوميروس
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: 82085825
+#META# Translator: سليمان البستاني
+#META# Related_books: 0001Homeros.Iliad (TRANSL)
 
 #META#Header#End#
 

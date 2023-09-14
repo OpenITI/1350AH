@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1338TahirJazairi.KafiFiLugha.Hindawi69259172",
-    "BookCats": "linguistics",
-    "BookID": "69259172",
-    "BookTitle": "الكافي في اللغة",
-    "AuthorID": "70951583",
-    "AuthorNam": "طاهر الجزائري",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1338TahirJazairi.KafiFiLugha.Hindawi69259172
+#META# Tags: linguistics
+#META# ID: 69259172
+#META# Title: الكافي في اللغة
+#META# AuthorID: 70951583
+#META# Author: طاهر الجزائري
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

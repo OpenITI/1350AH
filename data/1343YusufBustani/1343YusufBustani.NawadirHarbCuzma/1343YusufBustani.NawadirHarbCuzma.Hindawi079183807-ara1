@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1343YusufBustani.NawadirHarbCuzma.Hindawi79183807",
-    "BookCats": "history",
-    "BookID": "79183807",
-    "BookTitle": "نوادر الحرب العظمى",
-    "AuthorID": "39030463",
-    "AuthorNam": "يوسف البستاني",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1343YusufBustani.NawadirHarbCuzma.Hindawi79183807
+#META# Tags: history
+#META# ID: 79183807
+#META# Title: نوادر الحرب العظمى
+#META# AuthorID: 39030463
+#META# Author: يوسف البستاني
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1330YacqubSanuc.Calil.Hindawi83131508",
-    "BookCats": "plays",
-    "BookID": "83131508",
-    "BookTitle": "العليل",
-    "AuthorID": "63907360",
-    "AuthorNam": "يعقوب صنوع",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1330YacqubSanuc.Calil.Hindawi83131508
+#META# Tags: plays
+#META# ID: 83131508
+#META# Title: العليل
+#META# AuthorID: 63907360
+#META# Author: يعقوب صنوع
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

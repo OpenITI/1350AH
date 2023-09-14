@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1337MuhammadFarid.TarikhRumaniyyin.Hindawi69573150",
-    "BookCats": "history",
-    "BookID": "69573150",
-    "BookTitle": "تاريخ الرومانيين",
-    "AuthorID": "96026251",
-    "AuthorNam": "محمد فريد",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1337MuhammadFarid.TarikhRumaniyyin.Hindawi69573150
+#META# Tags: history
+#META# ID: 69573150
+#META# Title: تاريخ الرومانيين
+#META# AuthorID: 96026251
+#META# Author: محمد فريد
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

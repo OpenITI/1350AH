@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1350HasanHusayn.CadlIlahi.Hindawi59517361",
-    "BookCats": "philosophy",
-    "BookID": "59517361",
-    "BookTitle": "العدل الإلهي وأين أثره في المخلوقات",
-    "AuthorID": "75020649",
-    "AuthorNam": "حسن حسين",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1350HasanHusayn.CadlIlahi.Hindawi59517361
+#META# Tags: philosophy
+#META# ID: 59517361
+#META# Title: العدل الإلهي وأين أثره في المخلوقات
+#META# AuthorID: 75020649
+#META# Author: حسن حسين
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

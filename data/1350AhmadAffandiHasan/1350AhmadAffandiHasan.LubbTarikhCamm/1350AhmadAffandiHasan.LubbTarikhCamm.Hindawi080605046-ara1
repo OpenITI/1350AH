@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1350AhmadAffandiHasan.LubbTarikhCamm.Hindawi80605046",
-    "BookCats": "history",
-    "BookID": "80605046",
-    "BookTitle": "لب التاريخ العام فيما صدر من غابر الأعوام",
-    "AuthorID": "60683847",
-    "AuthorNam": "أحمد حسن",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1350AhmadAffandiHasan.LubbTarikhCamm.Hindawi80605046
+#META# Tags: history
+#META# ID: 80605046
+#META# Title: لب التاريخ العام فيما صدر من غابر الأعوام
+#META# AuthorID: 60683847
+#META# Author: أحمد حسن
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

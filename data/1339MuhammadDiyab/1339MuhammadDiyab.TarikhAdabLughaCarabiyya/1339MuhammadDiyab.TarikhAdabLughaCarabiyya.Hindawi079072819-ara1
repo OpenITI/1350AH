@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1339MuhammadDiyab.TarikhAdabLughaCarabiyya.Hindawi79072819",
-    "BookCats": "linguistics :: literature",
-    "BookID": "79072819",
-    "BookTitle": "تاريخ آداب اللغة العربية",
-    "AuthorID": "60261920",
-    "AuthorNam": "محمد دياب",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1339MuhammadDiyab.TarikhAdabLughaCarabiyya.Hindawi79072819
+#META# Tags: linguistics :: literature
+#META# ID: 79072819
+#META# Title: تاريخ آداب اللغة العربية
+#META# AuthorID: 60261920
+#META# Author: محمد دياب
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

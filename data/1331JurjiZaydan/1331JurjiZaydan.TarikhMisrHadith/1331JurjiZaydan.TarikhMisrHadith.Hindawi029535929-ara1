@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1331JurjiZaydan.TarikhMisrHadith.Hindawi29535929",
-    "BookCats": "history",
-    "BookID": "29535929",
-    "BookTitle": "تاريخ مصر الحديث: من الفتح الإسلامي إلى الآن مع فذلكة في تاريخ مصر القديم",
-    "AuthorID": "40590249",
-    "AuthorNam": "جُرجي زيدان",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1331JurjiZaydan.TarikhMisrHadith.Hindawi29535929
+#META# Tags: history
+#META# ID: 29535929
+#META# Title: تاريخ مصر الحديث: من الفتح الإسلامي إلى الآن مع فذلكة في تاريخ مصر القديم
+#META# AuthorID: 40590249
+#META# Author: جُرجي زيدان
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

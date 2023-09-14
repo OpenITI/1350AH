@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1326MustafaKamil.AcjabMaKanFiRiqq.Hindawi26394174",
-    "BookCats": "social.sciences",
-    "BookID": "26394174",
-    "BookTitle": "أعجب ما كان في الرق عند الرومان",
-    "AuthorID": "37070482",
-    "AuthorNam": "مصطفى كامل",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1326MustafaKamil.AcjabMaKanFiRiqq.Hindawi26394174
+#META# Tags: social.sciences
+#META# ID: 26394174
+#META# Title: أعجب ما كان في الرق عند الرومان
+#META# AuthorID: 37070482
+#META# Author: مصطفى كامل
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

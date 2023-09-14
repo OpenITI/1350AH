@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1348AhmadTaymurBasha.AmthalCammiyya.Hindawi75241938",
-    "BookCats": "literature",
-    "BookID": "75241938",
-    "BookTitle": "الأمثال العامية: مشروحة ومرتبة حسب الحرف الأول من المثل",
-    "AuthorID": "63682491",
-    "AuthorNam": "أحمد تيمور باشا",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1348AhmadTaymurBasha.AmthalCammiyya.Hindawi75241938
+#META# Tags: literature
+#META# ID: 75241938
+#META# Title: الأمثال العامية: مشروحة ومرتبة حسب الحرف الأول من المثل
+#META# AuthorID: 63682491
+#META# Author: أحمد تيمور باشا
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

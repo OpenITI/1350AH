@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1342CafifaKaram.BadicaWaFuad.Hindawi59138396",
-    "BookCats": "novels",
-    "BookID": "59138396",
-    "BookTitle": "بديعة وفؤاد",
-    "AuthorID": "26029280",
-    "AuthorNam": "عفيفة كرم",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1342CafifaKaram.BadicaWaFuad.Hindawi59138396
+#META# Tags: novels
+#META# ID: 59138396
+#META# Title: بديعة وفؤاد
+#META# AuthorID: 26029280
+#META# Author: عفيفة كرم
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

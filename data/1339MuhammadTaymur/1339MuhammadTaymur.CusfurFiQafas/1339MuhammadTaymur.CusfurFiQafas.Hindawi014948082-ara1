@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1339MuhammadTaymur.CusfurFiQafas.Hindawi14948082",
-    "BookCats": "plays",
-    "BookID": "14948082",
-    "BookTitle": "العصفور في القفص: كوميدي مصرية ذات أربعة فصول",
-    "AuthorID": "40461618",
-    "AuthorNam": "محمد تيمور",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1339MuhammadTaymur.CusfurFiQafas.Hindawi14948082
+#META# Tags: plays
+#META# ID: 14948082
+#META# Title: العصفور في القفص: كوميدي مصرية ذات أربعة فصول
+#META# AuthorID: 40461618
+#META# Author: محمد تيمور
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1345LouisCheikho.ArbacRasail.Hindawi71846303",
-    "BookCats": "philosophy",
-    "BookID": "71846303",
-    "BookTitle": "أربع رسائل لقدماء فلاسفة اليونان وابن العبري",
-    "AuthorID": "84806402",
-    "AuthorNam": "لويس شيخو",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1345LouisCheikho.ArbacRasail.Hindawi71846303
+#META# Tags: philosophy
+#META# ID: 71846303
+#META# Title: أربع رسائل لقدماء فلاسفة اليونان وابن العبري
+#META# AuthorID: 84806402
+#META# Author: لويس شيخو
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

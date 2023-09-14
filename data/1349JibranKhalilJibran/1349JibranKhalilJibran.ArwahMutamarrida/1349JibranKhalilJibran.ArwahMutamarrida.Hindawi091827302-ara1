@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1349JibranKhalilJibran.ArwahMutamarrida.Hindawi91827302",
-    "BookCats": "novels",
-    "BookID": "91827302",
-    "BookTitle": "الأرواح المتمردة",
-    "AuthorID": "85274958",
-    "AuthorNam": "جبران خليل جبران",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1349JibranKhalilJibran.ArwahMutamarrida.Hindawi91827302
+#META# Tags: novels
+#META# ID: 91827302
+#META# Title: الأرواح المتمردة
+#META# AuthorID: 85274958
+#META# Author: جبران خليل جبران
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

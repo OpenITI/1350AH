@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1350ZakiFahmi.SafwatCasr.Hindawi52483961",
-    "BookCats": "history",
-    "BookID": "52483961",
-    "BookTitle": "صفوة العصر في تاريخ ورسوم مشاهير رجال مصر",
-    "AuthorID": "90570681",
-    "AuthorNam": "زكي فهمي",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1350ZakiFahmi.SafwatCasr.Hindawi52483961
+#META# Tags: history
+#META# ID: 52483961
+#META# Title: صفوة العصر في تاريخ ورسوم مشاهير رجال مصر
+#META# AuthorID: 90570681
+#META# Author: زكي فهمي
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

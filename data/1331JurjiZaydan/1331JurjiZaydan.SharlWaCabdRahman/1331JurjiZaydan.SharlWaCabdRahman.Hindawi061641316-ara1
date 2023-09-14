@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1331JurjiZaydan.SharlWaCabdRahman.Hindawi61641316",
-    "BookCats": "novels",
-    "BookID": "61641316",
-    "BookTitle": "شارل وعبد الرحمن",
-    "AuthorID": "40590249",
-    "AuthorNam": "جُرجي زيدان",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1331JurjiZaydan.SharlWaCabdRahman.Hindawi61641316
+#META# Tags: novels
+#META# ID: 61641316
+#META# Title: شارل وعبد الرحمن
+#META# AuthorID: 40590249
+#META# Author: جُرجي زيدان
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

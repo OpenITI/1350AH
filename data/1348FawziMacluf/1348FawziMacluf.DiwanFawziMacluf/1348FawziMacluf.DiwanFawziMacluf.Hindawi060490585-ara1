@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1348FawziMacluf.DiwanFawziMacluf.Hindawi60490585",
-    "BookCats": "poetry",
-    "BookID": "60490585",
-    "BookTitle": "ديوان فوزي المعلوف",
-    "AuthorID": "63502062",
-    "AuthorNam": "فوزي المعلوف",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1348FawziMacluf.DiwanFawziMacluf.Hindawi60490585
+#META# Tags: poetry
+#META# ID: 60490585
+#META# Title: ديوان فوزي المعلوف
+#META# AuthorID: 63502062
+#META# Author: فوزي المعلوف
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

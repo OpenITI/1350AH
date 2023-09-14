@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1340FarahAntun.DinWaCilmWaMal.Hindawi70246068",
-    "BookCats": "novels",
-    "BookID": "70246068",
-    "BookTitle": "الدِّينُ والعِلمُ والمال",
-    "AuthorID": "62629517",
-    "AuthorNam": "فرح أنطون",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1340FarahAntun.DinWaCilmWaMal.Hindawi70246068
+#META# Tags: novels
+#META# ID: 70246068
+#META# Title: الدِّينُ والعِلمُ والمال
+#META# AuthorID: 62629517
+#META# Author: فرح أنطون
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

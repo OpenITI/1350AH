@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1346AminWasif.IttihafAbnaCasr.Hindawi17949406",
-    "BookCats": "history",
-    "BookID": "17949406",
-    "BookTitle": "إتحاف أبناء العصر بتاريخ ملوك مصر",
-    "AuthorID": "19358649 :: 59413848",
-    "AuthorNam": "أمين واصف :: عبد العزيز محمود",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1346AminWasif.IttihafAbnaCasr.Hindawi17949406
+#META# Tags: history
+#META# ID: 17949406
+#META# Title: إتحاف أبناء العصر بتاريخ ملوك مصر
+#META# AuthorID: 19358649 :: 59413848
+#META# Author: أمين واصف :: عبد العزيز محمود
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

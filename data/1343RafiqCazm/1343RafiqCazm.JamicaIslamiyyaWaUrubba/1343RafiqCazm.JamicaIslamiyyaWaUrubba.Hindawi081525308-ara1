@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1343RafiqCazm.JamicaIslamiyyaWaUrubba.Hindawi81525308",
-    "BookCats": "history",
-    "BookID": "81525308",
-    "BookTitle": "الجامعة الإسلامية وأوربا",
-    "AuthorID": "19617485",
-    "AuthorNam": "رفيق العظم",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1343RafiqCazm.JamicaIslamiyyaWaUrubba.Hindawi81525308
+#META# Tags: history
+#META# ID: 81525308
+#META# Title: الجامعة الإسلامية وأوربا
+#META# AuthorID: 19617485
+#META# Author: رفيق العظم
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

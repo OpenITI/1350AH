@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1350MuhammadTawfiqBakri.FuhulBalagha.Hindawi14758020",
-    "BookCats": "poetry",
-    "BookID": "14758020",
-    "BookTitle": "فحول البلاغة",
-    "AuthorID": "16284926",
-    "AuthorNam": "محمد توفيق البكري",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1350MuhammadTawfiqBakri.FuhulBalagha.Hindawi14758020
+#META# Tags: poetry
+#META# ID: 14758020
+#META# Title: فحول البلاغة
+#META# AuthorID: 16284926
+#META# Author: محمد توفيق البكري
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

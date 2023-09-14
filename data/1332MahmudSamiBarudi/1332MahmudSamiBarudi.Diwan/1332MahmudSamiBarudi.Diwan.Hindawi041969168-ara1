@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1332MahmudSamiBarudi.Diwan.Hindawi41969168",
-    "BookCats": "poetry",
-    "BookID": "41969168",
-    "BookTitle": "ديوان محمود سامي البارودي",
-    "AuthorID": "84979029",
-    "AuthorNam": "محمود سامي البارودي",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1332MahmudSamiBarudi.Diwan.Hindawi41969168
+#META# Tags: poetry
+#META# ID: 41969168
+#META# Title: ديوان محمود سامي البارودي
+#META# AuthorID: 84979029
+#META# Author: محمود سامي البارودي
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

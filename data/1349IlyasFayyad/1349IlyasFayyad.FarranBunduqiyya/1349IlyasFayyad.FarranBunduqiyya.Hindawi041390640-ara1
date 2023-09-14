@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1349IlyasFayyad.FarranBunduqiyya.Hindawi41390640",
-    "BookCats": "plays",
-    "BookID": "41390640",
-    "BookTitle": "فرَّان البندقية: مأساة ذات خمسة فصول",
-    "AuthorID": "74191607",
-    "AuthorNam": "إلياس فياض",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1349IlyasFayyad.FarranBunduqiyya.Hindawi41390640
+#META# Tags: plays
+#META# ID: 41390640
+#META# Title: فرَّان البندقية: مأساة ذات خمسة فصول
+#META# AuthorID: 74191607
+#META# Author: إلياس فياض
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

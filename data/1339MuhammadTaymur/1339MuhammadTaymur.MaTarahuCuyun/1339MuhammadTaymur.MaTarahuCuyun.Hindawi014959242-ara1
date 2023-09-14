@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1339MuhammadTaymur.MaTarahuCuyun.Hindawi14959242",
-    "BookCats": "literature",
-    "BookID": "14959242",
-    "BookTitle": "ما تراه العيون: قطع قصصية مصرية",
-    "AuthorID": "40461618",
-    "AuthorNam": "محمد تيمور",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1339MuhammadTaymur.MaTarahuCuyun.Hindawi14959242
+#META# Tags: literature
+#META# ID: 14959242
+#META# Title: ما تراه العيون: قطع قصصية مصرية
+#META# AuthorID: 40461618
+#META# Author: محمد تيمور
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

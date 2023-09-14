@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1330YacqubSanuc.AbuZayda.Hindawi81793639",
-    "BookCats": "plays",
-    "BookID": "81793639",
-    "BookTitle": "أبو ريدة وكعب الخير",
-    "AuthorID": "63907360",
-    "AuthorNam": "يعقوب صنوع",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1330YacqubSanuc.AbuZayda.Hindawi81793639
+#META# Tags: plays
+#META# ID: 81793639
+#META# Title: أبو ريدة وكعب الخير
+#META# AuthorID: 63907360
+#META# Author: يعقوب صنوع
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

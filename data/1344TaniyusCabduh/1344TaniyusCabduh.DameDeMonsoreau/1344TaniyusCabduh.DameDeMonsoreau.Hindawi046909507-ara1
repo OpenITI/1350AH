@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1344TaniyusCabduh.DameDeMonsoreau.Hindawi46909507",
-    "BookCats": "novels",
-    "BookID": "46909507",
-    "BookTitle": "لا دام دي مونسورو",
-    "AuthorID": "26064860",
-    "AuthorNam": "ألكسندر ديماس",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "69739264",
-    "TranslNam": "طانيوس عبده",
-    "BookRel": "1287AlexandreDumas.DameDeMonsoreau (TRANSL)"
-}
-
+#META# URI: 1344TaniyusCabduh.DameDeMonsoreau.Hindawi46909507
+#META# Tags: novels
+#META# ID: 46909507
+#META# Title: لا دام دي مونسورو
+#META# AuthorID: 26064860
+#META# Author: ألكسندر ديماس
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: 69739264
+#META# Translator: طانيوس عبده
+#META# Related_books: 1287AlexandreDumas.DameDeMonsoreau (TRANSL)
 
 #META#Header#End#
 

@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1344TaniyusCabduh.MalikNawar.Hindawi46425061",
-    "BookCats": "literature",
-    "BookID": "46425061",
-    "BookTitle": "ملك النَّوَر",
-    "AuthorID": "80839092",
-    "AuthorNam": "ميشيل زيفاكو",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "69739264",
-    "TranslNam": "طانيوس عبده",
-    "BookRel": "1318MichelZevaco (TRANSL)"
-}
-
+#META# URI: 1344TaniyusCabduh.MalikNawar.Hindawi46425061
+#META# Tags: literature
+#META# ID: 46425061
+#META# Title: ملك النَّوَر
+#META# AuthorID: 80839092
+#META# Author: ميشيل زيفاكو
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: 69739264
+#META# Translator: طانيوس عبده
+#META# Related_books: 1318MichelZevaco (TRANSL)
 
 #META#Header#End#
 

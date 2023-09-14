@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1342MustafaLutfiManfaluti.Nazarat.Hindawi94061468",
-    "BookCats": "literature",
-    "BookID": "94061468",
-    "BookTitle": "النظرات",
-    "AuthorID": "93803841",
-    "AuthorNam": "مصطفى لطفي المنفلوطي",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1342MustafaLutfiManfaluti.Nazarat.Hindawi94061468
+#META# Tags: literature
+#META# ID: 94061468
+#META# Title: النظرات
+#META# AuthorID: 93803841
+#META# Author: مصطفى لطفي المنفلوطي
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

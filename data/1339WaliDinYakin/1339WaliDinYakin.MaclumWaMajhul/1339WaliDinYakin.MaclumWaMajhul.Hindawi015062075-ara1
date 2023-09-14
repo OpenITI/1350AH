@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1339WaliDinYakin.MaclumWaMajhul.Hindawi15062075",
-    "BookCats": "history",
-    "BookID": "15062075",
-    "BookTitle": "المعلوم والمجهول",
-    "AuthorID": "96170848",
-    "AuthorNam": "ولي الدين يكن",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1339WaliDinYakin.MaclumWaMajhul.Hindawi15062075
+#META# Tags: history
+#META# ID: 15062075
+#META# Title: المعلوم والمجهول
+#META# AuthorID: 96170848
+#META# Author: ولي الدين يكن
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

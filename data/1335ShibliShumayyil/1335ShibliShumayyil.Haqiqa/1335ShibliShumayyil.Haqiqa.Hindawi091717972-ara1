@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1335ShibliShumayyil.Haqiqa.Hindawi91717972",
-    "BookCats": "philosophy",
-    "BookID": "91717972",
-    "BookTitle": "الحقيقة: وهي رسالة تتضمَّن ردودًا لإثبات مذهب دارون في النشوء والارتقاء",
-    "AuthorID": "90709753",
-    "AuthorNam": "شبلي شميل",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1335ShibliShumayyil.Haqiqa.Hindawi91717972
+#META# Tags: philosophy
+#META# ID: 91717972
+#META# Title: الحقيقة: وهي رسالة تتضمَّن ردودًا لإثبات مذهب دارون في النشوء والارتقاء
+#META# AuthorID: 90709753
+#META# Author: شبلي شميل
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

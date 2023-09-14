@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1350MuhammadHafizIbrahim.MuallafatKamila.Hindawi63795362",
-    "BookCats": "poetry",
-    "BookID": "63795362",
-    "BookTitle": "المُؤلَّفات الكاملة",
-    "AuthorID": "71640270",
-    "AuthorNam": "محمد حافظ إبراهيم",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1350MuhammadHafizIbrahim.MuallafatKamila.Hindawi63795362
+#META# Tags: poetry
+#META# ID: 63795362
+#META# Title: المُؤلَّفات الكاملة
+#META# AuthorID: 71640270
+#META# Author: محمد حافظ إبراهيم
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

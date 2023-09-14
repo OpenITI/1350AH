@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1347CabdFattahCabada.IntisharKhattCarabi.Hindawi79407515",
-    "BookCats": "arts",
-    "BookID": "79407515",
-    "BookTitle": "انتشار الخط العربي: في العالم الشرقي والعالم الغربي",
-    "AuthorID": "95085720",
-    "AuthorNam": "عبد الفتاح عبادة",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1347CabdFattahCabada.IntisharKhattCarabi.Hindawi79407515
+#META# Tags: arts
+#META# ID: 79407515
+#META# Title: انتشار الخط العربي: في العالم الشرقي والعالم الغربي
+#META# AuthorID: 95085720
+#META# Author: عبد الفتاح عبادة
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

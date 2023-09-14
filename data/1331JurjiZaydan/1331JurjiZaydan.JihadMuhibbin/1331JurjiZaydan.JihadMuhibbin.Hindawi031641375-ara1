@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1331JurjiZaydan.JihadMuhibbin.Hindawi31641375",
-    "BookCats": "novels",
-    "BookID": "31641375",
-    "BookTitle": "جهاد المحبين",
-    "AuthorID": "40590249",
-    "AuthorNam": "جُرجي زيدان",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1331JurjiZaydan.JihadMuhibbin.Hindawi31641375
+#META# Tags: novels
+#META# ID: 31641375
+#META# Title: جهاد المحبين
+#META# AuthorID: 40590249
+#META# Author: جُرجي زيدان
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

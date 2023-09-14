@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1345LouisCheikho.AsbabTarab.Hindawi95392585",
-    "BookCats": "literature",
-    "BookID": "95392585",
-    "BookTitle": "أسباب الطرب في نوادر العرب",
-    "AuthorID": "84806402",
-    "AuthorNam": "لويس شيخو",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1345LouisCheikho.AsbabTarab.Hindawi95392585
+#META# Tags: literature
+#META# ID: 95392585
+#META# Title: أسباب الطرب في نوادر العرب
+#META# AuthorID: 84806402
+#META# Author: لويس شيخو
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

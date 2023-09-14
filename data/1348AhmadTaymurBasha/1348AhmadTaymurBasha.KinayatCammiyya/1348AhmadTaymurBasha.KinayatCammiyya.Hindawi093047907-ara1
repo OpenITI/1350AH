@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1348AhmadTaymurBasha.KinayatCammiyya.Hindawi93047907",
-    "BookCats": "linguistics :: literature",
-    "BookID": "93047907",
-    "BookTitle": "الكنايات العامية",
-    "AuthorID": "63682491",
-    "AuthorNam": "أحمد تيمور باشا",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1348AhmadTaymurBasha.KinayatCammiyya.Hindawi93047907
+#META# Tags: linguistics :: literature
+#META# ID: 93047907
+#META# Title: الكنايات العامية
+#META# AuthorID: 63682491
+#META# Author: أحمد تيمور باشا
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

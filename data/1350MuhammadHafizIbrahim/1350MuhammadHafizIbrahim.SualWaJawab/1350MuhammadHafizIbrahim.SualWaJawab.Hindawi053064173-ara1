@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1350MuhammadHafizIbrahim.SualWaJawab.Hindawi53064173",
-    "BookCats": "philosophy :: literature",
-    "BookID": "53064173",
-    "BookTitle": "سؤال وجواب",
-    "AuthorID": "71640270",
-    "AuthorNam": "محمد حافظ إبراهيم",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1350MuhammadHafizIbrahim.SualWaJawab.Hindawi53064173
+#META# Tags: philosophy :: literature
+#META# ID: 53064173
+#META# Title: سؤال وجواب
+#META# AuthorID: 71640270
+#META# Author: محمد حافظ إبراهيم
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

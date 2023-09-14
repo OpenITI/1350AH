@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1330YacqubSanuc.BursatMisr.Hindawi51692820",
-    "BookCats": "plays",
-    "BookID": "51692820",
-    "BookTitle": "بورصة مصر",
-    "AuthorID": "63907360",
-    "AuthorNam": "يعقوب صنوع",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1330YacqubSanuc.BursatMisr.Hindawi51692820
+#META# Tags: plays
+#META# ID: 51692820
+#META# Title: بورصة مصر
+#META# AuthorID: 63907360
+#META# Author: يعقوب صنوع
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

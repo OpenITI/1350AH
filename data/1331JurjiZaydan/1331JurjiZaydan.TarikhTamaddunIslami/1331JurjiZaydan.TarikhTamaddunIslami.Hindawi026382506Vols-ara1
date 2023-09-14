@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1331JurjiZaydan.TarikhTamaddunIslami1.Hindawi26382506",
-    "BookCats": "history",
-    "BookID": "26382506",
-    "BookTitle": "تاريخ التمدن الإسلامي (الجزء الأول)",
-    "AuthorID": "40590249",
-    "AuthorNam": "جُرجي زيدان",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1331JurjiZaydan.TarikhTamaddunIslami1.Hindawi26382506
+#META# Tags: history
+#META# ID: 26382506
+#META# Title: تاريخ التمدن الإسلامي (الجزء الأول)
+#META# AuthorID: 40590249
+#META# Author: جُرجي زيدان
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

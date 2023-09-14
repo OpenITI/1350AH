@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1331JurjiZaydan.ArmanusaMisriyya.Hindawi71858151",
-    "BookCats": "novels",
-    "BookID": "71858151",
-    "BookTitle": "أرمانوسة المصرية",
-    "AuthorID": "40590249",
-    "AuthorNam": "جُرجي زيدان",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1331JurjiZaydan.ArmanusaMisriyya.Hindawi71858151
+#META# Tags: novels
+#META# ID: 71858151
+#META# Title: أرمانوسة المصرية
+#META# AuthorID: 40590249
+#META# Author: جُرجي زيدان
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1348AhmadTaymurBasha.RisalaLughawiyyaCanRutabWaAlqabMisriyya.Hindawi69073918",
-    "BookCats": "history",
-    "BookID": "69073918",
-    "BookTitle": "رسالة لغوية عن الرتب والألقاب المصرية: لرجال الجيش والهيئات العلمية والقلمية منذ عهد أمير المؤمنين عمر الفاروق",
-    "AuthorID": "63682491",
-    "AuthorNam": "أحمد تيمور باشا",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1348AhmadTaymurBasha.RisalaLughawiyyaCanRutabWaAlqabMisriyya.Hindawi69073918
+#META# Tags: history
+#META# ID: 69073918
+#META# Title: رسالة لغوية عن الرتب والألقاب المصرية: لرجال الجيش والهيئات العلمية والقلمية منذ عهد أمير المؤمنين عمر الفاروق
+#META# AuthorID: 63682491
+#META# Author: أحمد تيمور باشا
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

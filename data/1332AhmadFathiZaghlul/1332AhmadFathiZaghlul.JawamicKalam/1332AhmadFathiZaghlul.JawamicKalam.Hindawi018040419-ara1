@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1332AhmadFathiZaghlul.JawamicKalam.Hindawi18040419",
-    "BookCats": "literature",
-    "BookID": "18040419",
-    "BookTitle": "جوامع الكلم",
-    "AuthorID": "41830681",
-    "AuthorNam": "غوستاف لوبون",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "40508057",
-    "TranslNam": "أحمد فتحي زغلول",
-    "BookRel": "1349GustaveLeBon.AphorismesDuTemps (TRANSL)"
-}
-
+#META# URI: 1332AhmadFathiZaghlul.JawamicKalam.Hindawi18040419
+#META# Tags: literature
+#META# ID: 18040419
+#META# Title: جوامع الكلم
+#META# AuthorID: 41830681
+#META# Author: غوستاف لوبون
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: 40508057
+#META# Translator: أحمد فتحي زغلول
+#META# Related_books: 1349GustaveLeBon.AphorismesDuTemps (TRANSL)
 
 #META#Header#End#
 

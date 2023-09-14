@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1330YacqubSanuc.MoliereMisr.Hindawi36308593",
-    "BookCats": "plays",
-    "BookID": "36308593",
-    "BookTitle": "موليير مصر وما يقاسيه",
-    "AuthorID": "63907360",
-    "AuthorNam": "يعقوب صنوع",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1330YacqubSanuc.MoliereMisr.Hindawi36308593
+#META# Tags: plays
+#META# ID: 36308593
+#META# Title: موليير مصر وما يقاسيه
+#META# AuthorID: 63907360
+#META# Author: يعقوب صنوع
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

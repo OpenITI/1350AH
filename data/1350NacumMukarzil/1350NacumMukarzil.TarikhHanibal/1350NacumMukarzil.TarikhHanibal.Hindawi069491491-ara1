@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1350NacumMukarzil.TarikhHanibal.Hindawi69491491",
-    "BookCats": "history :: biographies",
-    "BookID": "69491491",
-    "BookTitle": "تاريخ هنيبال",
-    "AuthorID": "39083702",
-    "AuthorNam": "نعوم مكرزل",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1350NacumMukarzil.TarikhHanibal.Hindawi69491491
+#META# Tags: history :: biographies
+#META# ID: 69491491
+#META# Title: تاريخ هنيبال
+#META# AuthorID: 39083702
+#META# Author: نعوم مكرزل
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

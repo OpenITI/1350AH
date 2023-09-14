@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1331RuhiKhalidi.TarikhCilmAdab.Hindawi41584975",
-    "BookCats": "literature",
-    "BookID": "41584975",
-    "BookTitle": "تاريخ علم الأدب: عند الإفرنج والعرب وفكتور هوكو",
-    "AuthorID": "41473619",
-    "AuthorNam": "روحي الخالدي",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1331RuhiKhalidi.TarikhCilmAdab.Hindawi41584975
+#META# Tags: literature
+#META# ID: 41584975
+#META# Title: تاريخ علم الأدب: عند الإفرنج والعرب وفكتور هوكو
+#META# AuthorID: 41473619
+#META# Author: روحي الخالدي
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

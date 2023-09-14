@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1350MuhammadHafizIbrahim.LayaliySatih.Hindawi39150590",
-    "BookCats": "literature",
-    "BookID": "39150590",
-    "BookTitle": "ليالي سطيح",
-    "AuthorID": "71640270",
-    "AuthorNam": "محمد حافظ إبراهيم",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1350MuhammadHafizIbrahim.LayaliySatih.Hindawi39150590
+#META# Tags: literature
+#META# ID: 39150590
+#META# Title: ليالي سطيح
+#META# AuthorID: 71640270
+#META# Author: محمد حافظ إبراهيم
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

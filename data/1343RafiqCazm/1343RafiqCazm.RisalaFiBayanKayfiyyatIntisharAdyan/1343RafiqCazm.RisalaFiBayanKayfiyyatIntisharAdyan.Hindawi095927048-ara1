@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1343RafiqCazm.RisalaFiBayanKayfiyyatIntisharAdyan.Hindawi95927048",
-    "BookCats": "history",
-    "BookID": "95927048",
-    "BookTitle": "رسالة في بيان كيفية انتشار الأديان",
-    "AuthorID": "19617485",
-    "AuthorNam": "رفيق العظم",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1343RafiqCazm.RisalaFiBayanKayfiyyatIntisharAdyan.Hindawi95927048
+#META# Tags: history
+#META# ID: 95927048
+#META# Title: رسالة في بيان كيفية انتشار الأديان
+#META# AuthorID: 19617485
+#META# Author: رفيق العظم
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

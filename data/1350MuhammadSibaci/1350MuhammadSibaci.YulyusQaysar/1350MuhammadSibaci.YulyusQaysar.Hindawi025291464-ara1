@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1350MuhammadSibaci.YulyusQaysar.Hindawi25291464",
-    "BookCats": "plays",
-    "BookID": "25291464",
-    "BookTitle": "يوليوس قيصر",
-    "AuthorID": "51483537",
-    "AuthorNam": "ويليام شكسبير",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "28537947",
-    "TranslNam": "محمد السباعي",
-    "BookRel": "1024WilliamShakespeare.JuliusCaesar (TRANSL)"
-}
-
+#META# URI: 1350MuhammadSibaci.YulyusQaysar.Hindawi25291464
+#META# Tags: plays
+#META# ID: 25291464
+#META# Title: يوليوس قيصر
+#META# AuthorID: 51483537
+#META# Author: ويليام شكسبير
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: 28537947
+#META# Translator: محمد السباعي
+#META# Related_books: 1024WilliamShakespeare.JuliusCaesar (TRANSL)
 
 #META#Header#End#
 

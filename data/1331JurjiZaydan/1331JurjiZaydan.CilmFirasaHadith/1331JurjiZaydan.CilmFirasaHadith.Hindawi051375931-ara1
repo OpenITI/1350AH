@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1331JurjiZaydan.CilmFirasaHadith.Hindawi51375931",
-    "BookCats": "philosophy",
-    "BookID": "51375931",
-    "BookTitle": "علم الفراسة الحديث",
-    "AuthorID": "40590249",
-    "AuthorNam": "جُرجي زيدان",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1331JurjiZaydan.CilmFirasaHadith.Hindawi51375931
+#META# Tags: philosophy
+#META# ID: 51375931
+#META# Title: علم الفراسة الحديث
+#META# AuthorID: 40590249
+#META# Author: جُرجي زيدان
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

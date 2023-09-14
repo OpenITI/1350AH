@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1349JibranKhalilJibran.FiCalamRuya.Hindawi59729251",
-    "BookCats": "literature",
-    "BookID": "59729251",
-    "BookTitle": "في عالم الرؤيا: مقالات مختارة لجبران خليل جبران",
-    "AuthorID": "72739403",
-    "AuthorNam": "محمد محمد عبد المجيد",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1349JibranKhalilJibran.FiCalamRuya.Hindawi59729251
+#META# Tags: literature
+#META# ID: 59729251
+#META# Title: في عالم الرؤيا: مقالات مختارة لجبران خليل جبران
+#META# AuthorID: 72739403
+#META# Author: محمد محمد عبد المجيد
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1349JibranKhalilJibran.BadaicWaTaraif.Hindawi40604174",
-    "BookCats": "literature",
-    "BookID": "40604174",
-    "BookTitle": "البدائع والطرائف",
-    "AuthorID": "85274958",
-    "AuthorNam": "جبران خليل جبران",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1349JibranKhalilJibran.BadaicWaTaraif.Hindawi40604174
+#META# Tags: literature
+#META# ID: 40604174
+#META# Title: البدائع والطرائف
+#META# AuthorID: 85274958
+#META# Author: جبران خليل جبران
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1339MuhammadTaymur.Diwan.Hindawi64273975",
-    "BookCats": "poetry",
-    "BookID": "64273975",
-    "BookTitle": "ديوان تيمور",
-    "AuthorID": "40461618",
-    "AuthorNam": "محمد تيمور",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1339MuhammadTaymur.Diwan.Hindawi64273975
+#META# Tags: poetry
+#META# ID: 64273975
+#META# Title: ديوان تيمور
+#META# AuthorID: 40461618
+#META# Author: محمد تيمور
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

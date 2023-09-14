@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1349MuhammadKamilKhulci.MusiqaSharqi.Hindawi46319638",
-    "BookCats": "arts",
-    "BookID": "46319638",
-    "BookTitle": "كِتاب المُوسيقى الشرقي",
-    "AuthorID": "48171950",
-    "AuthorNam": "محمد كامل الخلعي",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1349MuhammadKamilKhulci.MusiqaSharqi.Hindawi46319638
+#META# Tags: arts
+#META# ID: 46319638
+#META# Title: كِتاب المُوسيقى الشرقي
+#META# AuthorID: 48171950
+#META# Author: محمد كامل الخلعي
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1335ShibliShumayyil.MasalaKubra.Hindawi42047964",
-    "BookCats": "plays",
-    "BookID": "42047964",
-    "BookTitle": "المأساة الكبرى: رواية تشخيصية في الحرب الحاضرة",
-    "AuthorID": "90709753",
-    "AuthorNam": "شبلي شميل",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1335ShibliShumayyil.MasalaKubra.Hindawi42047964
+#META# Tags: plays
+#META# ID: 42047964
+#META# Title: المأساة الكبرى: رواية تشخيصية في الحرب الحاضرة
+#META# AuthorID: 90709753
+#META# Author: شبلي شميل
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

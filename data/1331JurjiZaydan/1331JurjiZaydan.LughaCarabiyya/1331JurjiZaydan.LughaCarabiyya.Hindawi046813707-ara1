@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1331JurjiZaydan.LughaCarabiyya.Hindawi46813707",
-    "BookCats": "linguistics",
-    "BookID": "46813707",
-    "BookTitle": "اللغة العربية كائن حي",
-    "AuthorID": "40590249",
-    "AuthorNam": "جُرجي زيدان",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1331JurjiZaydan.LughaCarabiyya.Hindawi46813707
+#META# Tags: linguistics
+#META# ID: 46813707
+#META# Title: اللغة العربية كائن حي
+#META# AuthorID: 40590249
+#META# Author: جُرجي زيدان
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

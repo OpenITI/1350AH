@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1330YacqubSanuc.AmiraIskandaraniyya.Hindawi60591692",
-    "BookCats": "plays",
-    "BookID": "60591692",
-    "BookTitle": "الأميرة الإسكندرانية",
-    "AuthorID": "63907360",
-    "AuthorNam": "يعقوب صنوع",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1330YacqubSanuc.AmiraIskandaraniyya.Hindawi60591692
+#META# Tags: plays
+#META# ID: 60591692
+#META# Title: الأميرة الإسكندرانية
+#META# AuthorID: 63907360
+#META# Author: يعقوب صنوع
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1348FawziMacluf.SuqutGharnata.Hindawi83972649",
-    "BookCats": "novels",
-    "BookID": "83972649",
-    "BookTitle": "سقوط غرناطة",
-    "AuthorID": "63502062",
-    "AuthorNam": "فوزي المعلوف",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1348FawziMacluf.SuqutGharnata.Hindawi83972649
+#META# Tags: novels
+#META# ID: 83972649
+#META# Title: سقوط غرناطة
+#META# AuthorID: 63502062
+#META# Author: فوزي المعلوف
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

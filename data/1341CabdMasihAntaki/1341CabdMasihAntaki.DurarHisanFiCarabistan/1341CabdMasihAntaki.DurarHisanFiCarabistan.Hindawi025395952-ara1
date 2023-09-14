@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1341CabdMasihAntaki.DurarHisanFiCarabistan.Hindawi25395952",
-    "BookCats": "history",
-    "BookID": "25395952",
-    "BookTitle": "الدرر الحسان في إمارة عربستان: وترجمة مولانا صاحب العظمة سردار أرفع معز السلطنة الشيخ «خزعل خان» أمير المحمرة وحاكمها ورئيس قبائلها",
-    "AuthorID": "19502968",
-    "AuthorNam": "عبد المسيح أنطاكي",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1341CabdMasihAntaki.DurarHisanFiCarabistan.Hindawi25395952
+#META# Tags: history
+#META# ID: 25395952
+#META# Title: الدرر الحسان في إمارة عربستان: وترجمة مولانا صاحب العظمة سردار أرفع معز السلطنة الشيخ «خزعل خان» أمير المحمرة وحاكمها ورئيس قبائلها
+#META# AuthorID: 19502968
+#META# Author: عبد المسيح أنطاكي
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

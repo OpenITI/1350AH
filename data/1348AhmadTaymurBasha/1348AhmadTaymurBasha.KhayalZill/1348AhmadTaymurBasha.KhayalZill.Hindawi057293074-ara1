@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1348AhmadTaymurBasha.KhayalZill.Hindawi57293074",
-    "BookCats": "arts",
-    "BookID": "57293074",
-    "BookTitle": "خيال الظل واللعب والتماثيل المصورة عند العرب",
-    "AuthorID": "63682491",
-    "AuthorNam": "أحمد تيمور باشا",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1348AhmadTaymurBasha.KhayalZill.Hindawi57293074
+#META# Tags: arts
+#META# ID: 57293074
+#META# Title: خيال الظل واللعب والتماثيل المصورة عند العرب
+#META# AuthorID: 63682491
+#META# Author: أحمد تيمور باشا
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

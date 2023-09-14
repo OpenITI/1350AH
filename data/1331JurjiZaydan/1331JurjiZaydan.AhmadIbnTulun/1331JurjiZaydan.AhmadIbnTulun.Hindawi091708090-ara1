@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1331JurjiZaydan.AhmadIbnTulun.Hindawi91708090",
-    "BookCats": "novels",
-    "BookID": "91708090",
-    "BookTitle": "أحمد بن طولون",
-    "AuthorID": "40590249",
-    "AuthorNam": "جُرجي زيدان",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1331JurjiZaydan.AhmadIbnTulun.Hindawi91708090
+#META# Tags: novels
+#META# ID: 91708090
+#META# Title: أحمد بن طولون
+#META# AuthorID: 40590249
+#META# Author: جُرجي زيدان
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

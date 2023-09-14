@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1346IlyasAyyubi.MuhammadCali.Hindawi28147925",
-    "BookCats": "history",
-    "BookID": "28147925",
-    "BookTitle": "محمد علي",
-    "AuthorID": "25259074",
-    "AuthorNam": "إلياس الأيوبي",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1346IlyasAyyubi.MuhammadCali.Hindawi28147925
+#META# Tags: history
+#META# ID: 28147925
+#META# Title: محمد علي
+#META# AuthorID: 25259074
+#META# Author: إلياس الأيوبي
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

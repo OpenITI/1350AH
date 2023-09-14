@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1350AhmadRiyad.AhzanWerther.Hindawi68483920",
-    "BookCats": "novels",
-    "BookID": "68483920",
-    "BookTitle": "أحزان فرتر",
-    "AuthorID": "41795037",
-    "AuthorNam": "يوهان فولفجانج جوته",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "64695391",
-    "TranslNam": "أحمد رياض",
-    "BookRel": "1247JohannWolfgangGoethe.LeidenJungenWerthers (TRANSL)"
-}
-
+#META# URI: 1350AhmadRiyad.AhzanWerther.Hindawi68483920
+#META# Tags: novels
+#META# ID: 68483920
+#META# Title: أحزان فرتر
+#META# AuthorID: 41795037
+#META# Author: يوهان فولفجانج جوته
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: 64695391
+#META# Translator: أحمد رياض
+#META# Related_books: 1247JohannWolfgangGoethe.LeidenJungenWerthers (TRANSL)
 
 #META#Header#End#
 

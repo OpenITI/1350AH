@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1343RafiqCazm.BayanFiTamaddun.Hindawi97053705",
-    "BookCats": "history",
-    "BookID": "97053705",
-    "BookTitle": "البيان في التمدن وأسباب العمران",
-    "AuthorID": "19617485",
-    "AuthorNam": "رفيق العظم",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1343RafiqCazm.BayanFiTamaddun.Hindawi97053705
+#META# Tags: history
+#META# ID: 97053705
+#META# Title: البيان في التمدن وأسباب العمران
+#META# AuthorID: 19617485
+#META# Author: رفيق العظم
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

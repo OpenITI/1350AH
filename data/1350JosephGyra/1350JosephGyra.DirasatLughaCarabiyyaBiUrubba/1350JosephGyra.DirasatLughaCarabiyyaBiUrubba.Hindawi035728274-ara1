@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1350JosephGyra.DirasatLughaCarabiyyaBiUrubba.Hindawi35728274",
-    "BookCats": "history :: literature",
-    "BookID": "35728274",
-    "BookTitle": "تاريخ دراسة اللغة العربية بأوروبا",
-    "AuthorID": "26208686",
-    "AuthorNam": "يوسف جيرا",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1350JosephGyra.DirasatLughaCarabiyyaBiUrubba.Hindawi35728274
+#META# Tags: history :: literature
+#META# ID: 35728274
+#META# Title: تاريخ دراسة اللغة العربية بأوروبا
+#META# AuthorID: 26208686
+#META# Author: يوسف جيرا
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

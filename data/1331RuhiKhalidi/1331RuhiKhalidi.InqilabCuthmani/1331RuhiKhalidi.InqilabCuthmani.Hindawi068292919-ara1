@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1331RuhiKhalidi.InqilabCuthmani.Hindawi68292919",
-    "BookCats": "history",
-    "BookID": "68292919",
-    "BookTitle": "الانقلاب العثماني وتركيا الفتاة: أصدق تاريخ لأعظم انقلاب",
-    "AuthorID": "41473619",
-    "AuthorNam": "روحي الخالدي",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1331RuhiKhalidi.InqilabCuthmani.Hindawi68292919
+#META# Tags: history
+#META# ID: 68292919
+#META# Title: الانقلاب العثماني وتركيا الفتاة: أصدق تاريخ لأعظم انقلاب
+#META# AuthorID: 41473619
+#META# Author: روحي الخالدي
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

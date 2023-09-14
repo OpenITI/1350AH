@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1342CabdHayyHasani.ThaqafaIslamiyyFiHind.Hindawi70930825",
-    "BookCats": "history",
-    "BookID": "70930825",
-    "BookTitle": "الثقافة الإسلامية في الهند",
-    "AuthorID": "48649709",
-    "AuthorNam": "عبد الحي الحسني",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1342CabdHayyHasani.ThaqafaIslamiyyFiHind.Hindawi70930825
+#META# Tags: history
+#META# ID: 70930825
+#META# Title: الثقافة الإسلامية في الهند
+#META# AuthorID: 48649709
+#META# Author: عبد الحي الحسني
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

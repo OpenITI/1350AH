@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1346IlyasAyyubi.MisrKhadiwiIsmacil.Hindawi24697404",
-    "BookCats": "history",
-    "BookID": "24697404",
-    "BookTitle": "تاريخ مصر في عهد الخديو إسماعيل باشا",
-    "AuthorID": "25259074",
-    "AuthorNam": "إلياس الأيوبي",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1346IlyasAyyubi.MisrKhadiwiIsmacil.Hindawi24697404
+#META# Tags: history
+#META# ID: 24697404
+#META# Title: تاريخ مصر في عهد الخديو إسماعيل باشا
+#META# AuthorID: 25259074
+#META# Author: إلياس الأيوبي
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

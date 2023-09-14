@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1340NaccumShuqayr.TarikhSinaWaCarab.Hindawi91480429",
-    "BookCats": "history",
-    "BookID": "91480429",
-    "BookTitle": "تاريخ سينا والعرب",
-    "AuthorID": "80685181",
-    "AuthorNam": "نعوم شقير",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1340NaccumShuqayr.TarikhSinaWaCarab.Hindawi91480429
+#META# Tags: history
+#META# ID: 91480429
+#META# Title: تاريخ سينا والعرب
+#META# AuthorID: 80685181
+#META# Author: نعوم شقير
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

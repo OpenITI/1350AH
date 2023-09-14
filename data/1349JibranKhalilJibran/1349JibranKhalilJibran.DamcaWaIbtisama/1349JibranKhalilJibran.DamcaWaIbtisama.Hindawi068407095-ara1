@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1349JibranKhalilJibran.DAmcaWaIbtisama.Hindawi68407095",
-    "BookCats": "literature",
-    "BookID": "68407095",
-    "BookTitle": "دمعة وابتسامة",
-    "AuthorID": "85274958",
-    "AuthorNam": "جبران خليل جبران",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1349JibranKhalilJibran.DAmcaWaIbtisama.Hindawi68407095
+#META# Tags: literature
+#META# ID: 68407095
+#META# Title: دمعة وابتسامة
+#META# AuthorID: 85274958
+#META# Author: جبران خليل جبران
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

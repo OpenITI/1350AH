@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1349JibranKhalilJibran.AjnihaMutakassira.Hindawi46094724",
-    "BookCats": "novels",
-    "BookID": "46094724",
-    "BookTitle": "الأجنحة المتكسرة",
-    "AuthorID": "85274958",
-    "AuthorNam": "جبران خليل جبران",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1349JibranKhalilJibran.AjnihaMutakassira.Hindawi46094724
+#META# Tags: novels
+#META# ID: 46094724
+#META# Title: الأجنحة المتكسرة
+#META# AuthorID: 85274958
+#META# Author: جبران خليل جبران
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

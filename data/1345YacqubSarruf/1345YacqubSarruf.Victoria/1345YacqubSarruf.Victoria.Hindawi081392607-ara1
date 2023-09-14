@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1345YacqubSarruf.Victoria.Hindawi81392607",
-    "BookCats": "history",
-    "BookID": "81392607",
-    "BookTitle": "فكتوريا: ملكة الإنجليز وإمبراطورة الهند",
-    "AuthorID": "59284082",
-    "AuthorNam": "يعقوب صرُّوف",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1345YacqubSarruf.Victoria.Hindawi81392607
+#META# Tags: history
+#META# ID: 81392607
+#META# Title: فكتوريا: ملكة الإنجليز وإمبراطورة الهند
+#META# AuthorID: 59284082
+#META# Author: يعقوب صرُّوف
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

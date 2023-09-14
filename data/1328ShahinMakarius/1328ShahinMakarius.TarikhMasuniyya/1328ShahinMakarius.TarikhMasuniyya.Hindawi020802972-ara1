@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1328ShahinMakarius.TarikhMasuniyya.Hindawi20802972",
-    "BookCats": "history",
-    "BookID": "20802972",
-    "BookTitle": "الحقائق الأصلية في تاريخ الماسونية العملية",
-    "AuthorID": "50375817",
-    "AuthorNam": "شاهين مكاريوس",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1328ShahinMakarius.TarikhMasuniyya.Hindawi20802972
+#META# Tags: history
+#META# ID: 20802972
+#META# Title: الحقائق الأصلية في تاريخ الماسونية العملية
+#META# AuthorID: 50375817
+#META# Author: شاهين مكاريوس
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 
