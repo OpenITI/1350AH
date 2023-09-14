@@ -1,5 +1,5 @@
-00#VERS#CLENGTH##: 654027
-00#VERS#LENGTH###: 157701
+00#VERS#CLENGTH##: 466454
+00#VERS#LENGTH###: 110811
 00#VERS#URI######: 1332HassunBuraqi.TarikhKufa.Shia003633-ara1
 80#VERS#BASED####: NOT_FOUND
 80#VERS#COLLATED#: http://www.worldcat.org/oclc/4770981087
@@ -14,6 +14,8 @@
     (introductions, footnotes, indices, ...)
     removed by HRH and MGR (OpenITI Clean operation, 2023)
     Link to the text file as it was before it was cleaned:
-    https://raw.githubusercontent.com/OpenITI/1350AH/pre-clean/data/1332HassunBuraqi/1332HassunBuraqi.TarikhKufa/1332HassunBuraqi.TarikhKufa.Shia003633-ara1.completed
+    https://raw.githubusercontent.com/OpenITI/1350AH/pre-
+    clean/data/1332HassunBuraqi/1332HassunBuraqi.TarikhKufa/1332HassunBuraqi.TarikhKufa.Shia003633-ara1.completed
 90#VERS#DATE#####: 2020-11-09
-90#VERS#ISSUES###: EDITORIAL_SECTIONS, RANDOM_CHARS, PRIMARY_VERSION, CLEANED_VERSION
+90#VERS#ISSUES###: EDITORIAL_SECTIONS, RANDOM_CHARS, PRIMARY_VERSION,
+    CLEANED_VERSION
