@@ -13,5 +13,6 @@
 30#AUTH#DIED###AH: 1339-XXX-XX
 40#AUTH#STUDENTS#: AUTH_URI from OpenITI, comma separated
 40#AUTH#TEACHERS#: AUTH_URI from OpenITI, comma separated
+70#AUTH#EXTID####: wikidata@Q12183071
 80#AUTH#BIBLIO###: src@id, src@id, src@id, src@id, src@id
 90#AUTH#COMMENT##: EI2: "Ismāʿīl b. Muḥammad Amīn b. Mīr Salīm al-Bābānī al-Bag̲h̲dādī , in modern Turkish orthography, Baǧdatlı İsmail Paşa (1839-1920), Ottoman army officer and author of two important bio-bibliographical reference works.": http://dx.doi.org/10.1163/1573-3912_islam_SIM_8722
